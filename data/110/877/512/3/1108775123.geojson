@@ -9,7 +9,7 @@
     "geom:bbox":"-81.14239,36.67093,-79.33049,37.372985",
     "geom:latitude":37.011977,
     "geom:longitude":-80.273055,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4683190846.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 19",
     "uscensus:sldust":"019",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488481,
     "wof:geomhash":"ee266ebad613e5bb73862627dd32371c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108775123,
     "wof:lastmodified":1481488481,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

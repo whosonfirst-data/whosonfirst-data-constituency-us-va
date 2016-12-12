@@ -9,7 +9,7 @@
     "geom:bbox":"-78.15757,39.026739,-77.45763,39.32456",
     "geom:latitude":39.181063,
     "geom:longitude":-77.771533,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":928317784.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 33",
     "uscensus:sldlst":"033",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488428,
     "wof:geomhash":"bedd10279bc5348bde5b14cbe1867004",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108774929,
     "wof:lastmodified":1481488428,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

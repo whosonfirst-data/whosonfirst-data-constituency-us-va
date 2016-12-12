@@ -9,7 +9,7 @@
     "geom:bbox":"-79.92547,37.005876,-79.0456,37.44245",
     "geom:latitude":37.198371,
     "geom:longitude":-79.53427,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1054430764.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 22",
     "uscensus:sldlst":"022",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488418,
     "wof:geomhash":"ef47cccb570c7ddc9d37d1f9f5a1e721",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108774905,
     "wof:lastmodified":1481488418,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

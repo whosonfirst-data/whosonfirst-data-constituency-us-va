@@ -9,7 +9,7 @@
     "geom:bbox":"-77.480246,38.390958,-77.04927,38.78861",
     "geom:latitude":38.596869,
     "geom:longitude":-77.28816,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":364880110.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 36",
     "uscensus:sldust":"036",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488490,
     "wof:geomhash":"b7013dad018370de6de76f9a0046a212",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108775161,
     "wof:lastmodified":1481488490,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

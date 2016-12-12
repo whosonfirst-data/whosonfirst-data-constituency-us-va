@@ -9,7 +9,7 @@
     "geom:bbox":"-78.20892,38.931739,-77.46836,39.175789",
     "geom:latitude":39.048071,
     "geom:longitude":-77.842051,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":735652524.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 10",
     "uscensus:sldlst":"010",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488414,
     "wof:geomhash":"98e1d5dc06f595cb41dd3e30ad15d8d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108774877,
     "wof:lastmodified":1481488414,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

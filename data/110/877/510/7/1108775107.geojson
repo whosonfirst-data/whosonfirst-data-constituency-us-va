@@ -9,7 +9,7 @@
     "geom:bbox":"-77.79692,37.555408,-77.44403,37.865072",
     "geom:latitude":37.724815,
     "geom:longitude":-77.61361,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":563005606.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 12",
     "uscensus:sldust":"012",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488477,
     "wof:geomhash":"37b5f8f0ef93c9b959abf9979af1bf46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108775107,
     "wof:lastmodified":1481488477,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

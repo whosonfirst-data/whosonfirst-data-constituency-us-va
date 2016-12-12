@@ -9,7 +9,7 @@
     "geom:bbox":"-76.28787,36.628408,-76.065553,36.794165",
     "geom:latitude":36.702121,
     "geom:longitude":-76.199342,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":175155939.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 78",
     "uscensus:sldlst":"078",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488444,
     "wof:geomhash":"7eb983f669c399e7104f050b7bb07ca3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108775031,
     "wof:lastmodified":1481488444,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],

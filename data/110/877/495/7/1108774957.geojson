@@ -9,7 +9,7 @@
     "geom:bbox":"-77.10703,38.76855,-77.03729,38.864881",
     "geom:latitude":38.816308,
     "geom:longitude":-77.061138,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":24792845.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 45",
     "uscensus:sldlst":"045",
     "uscensus:statefp":"51",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488432,
     "wof:geomhash":"b1eb0095b5d867f2fc5ca44ee446fefb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688747
+        }
+    ],
     "wof:id":1108774957,
     "wof:lastmodified":1481488432,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688747,
     "wof:repo":"whosonfirst-data-constituency-us-va",
     "wof:superseded_by":[],
     "wof:supersedes":[],
